@@ -25,6 +25,6 @@ Servant leadership, playing positive-sum games, helping people find their best s
 #### Let's talk!
 I've lived in multiple countries, and I love coffee, sneakers, and food. I'm always down to meet new friends, hit me up!
 
-[LinkedIn](https://www.linkedin.com/in/arjun-kannan)
-[Twitter](https://twitter.com/arj_shiv/)
-[Email](mailto:me@arjunkannan.com)
+- [Twitter](https://twitter.com/arj_shiv/)
+- [LinkedIn](https://www.linkedin.com/in/arjun-kannan)
+- [Email](mailto:me@arjunkannan.com)
